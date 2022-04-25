@@ -2,7 +2,7 @@
 
 use MartinLindhe\VueInternationalizationGenerator\Generator;
 
-class GenerateTest extends \PHPUnit_Framework_TestCase
+class GenerateTest extends \Orchestra\Testbench\TestCase
 {
     private function generateLocaleFilesFrom(array $arr)
     {
