@@ -1,5 +1,5 @@
 {
-    "name": "assurdeal/laravel-vue-i18n-generator",
+    "name": "librenms/laravel-vue-i18n-generator",
     "license": "MIT",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "keywords": ["laravel","vue-i18n"],
